@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\viewmodels\\homeindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\viewmodels\\homeindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\models\\trendinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\models\\trendinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\models\\homeh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\models\\homeh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\models\\gaming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\models\\gaming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\models\\contactus\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\models\\contactus\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\helpers\\activeroutetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\helpers\\activeroutetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|c:\\users\\elvin\\source\\repos\\luxgamingshop1\\luxgamingshop1\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAE0405-3A58-4C68-9549-123B4F9CD4C6}|LuxGamingShop1\\LuxGamingShop1.csproj|solutionrelative:luxgamingshop1\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Program.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Program.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Program.cs",
+              "RelativeToolTip": "LuxGamingShop1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:12:59.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "LuxGamingShop1\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:12:46.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LuxGamingShop1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:12:39.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\ContactUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Views\\ContactUs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\ContactUs\\Index.cshtml",
+              "RelativeToolTip": "LuxGamingShop1\\Views\\ContactUs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:12:26.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrendingGame.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Models\\TrendingGame.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Models\\TrendingGame.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Models\\TrendingGame.cs",
+              "RelativeToolTip": "LuxGamingShop1\\Models\\TrendingGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:12:11.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeH.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Models\\HomeH.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Models\\HomeH.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Models\\HomeH.cs",
+              "RelativeToolTip": "LuxGamingShop1\\Models\\HomeH.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:12:05.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gaming.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Models\\Gaming.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Models\\Gaming.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Models\\Gaming.cs",
+              "RelativeToolTip": "LuxGamingShop1\\Models\\Gaming.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:12:01.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Models\\Feature.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Models\\Feature.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Models\\Feature.cs",
+              "RelativeToolTip": "LuxGamingShop1\\Models\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:11:56.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactUs.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Models\\ContactUs\\ContactUs.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Models\\ContactUs\\ContactUs.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Models\\ContactUs\\ContactUs.cs",
+              "RelativeToolTip": "LuxGamingShop1\\Models\\ContactUs\\ContactUs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:11:51.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\appsettings.json",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\appsettings.json",
+              "RelativeToolTip": "LuxGamingShop1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T14:11:07.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\ViewModels\\HomeIndexVM.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\ViewModels\\HomeIndexVM.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\ViewModels\\HomeIndexVM.cs",
+              "RelativeToolTip": "LuxGamingShop1\\ViewModels\\HomeIndexVM.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:11:01.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActiveRouteTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Helpers\\ActiveRouteTagHelper.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Helpers\\ActiveRouteTagHelper.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Helpers\\ActiveRouteTagHelper.cs",
+              "RelativeToolTip": "LuxGamingShop1\\Helpers\\ActiveRouteTagHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:10:50.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactUsController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Controllers\\ContactUsController.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Controllers\\ContactUsController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Controllers\\ContactUsController.cs",
+              "RelativeToolTip": "LuxGamingShop1\\Controllers\\ContactUsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:10:46.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "LuxGamingShop1\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:10:44.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Views\\Home\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\Home\\Index1.cshtml",
+              "RelativeToolTip": "LuxGamingShop1\\Views\\Home\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:09:58.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LuxGamingShop1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:09:39.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LuxGamingShop1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:07:34.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LuxGamingShop1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\LuxGamingShop1\\LuxGamingShop1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LuxGamingShop1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:06:57.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

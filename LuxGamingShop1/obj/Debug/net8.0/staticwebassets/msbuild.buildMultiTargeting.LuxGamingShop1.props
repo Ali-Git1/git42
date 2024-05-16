@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LuxGamingShop1.props" />
+</Project>
