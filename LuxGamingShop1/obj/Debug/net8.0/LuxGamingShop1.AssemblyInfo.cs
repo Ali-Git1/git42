@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LuxGamingShop1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9c0de951c7cb73cc8b6a78d208dfd6a9b2d925")]
 [assembly: System.Reflection.AssemblyProductAttribute("LuxGamingShop1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LuxGamingShop1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

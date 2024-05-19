@@ -11,7 +11,7 @@ namespace LuxGamingShop1.ViewModels
 
         public HomeH Homeh { get; set; }
 
-        public ContactUs contactUs { get; set; }
+        public ContactUss contactUs { get; set; }
 
         public List<TrendingGame> trendinggame { get; set; }
 
